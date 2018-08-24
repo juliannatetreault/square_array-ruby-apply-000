@@ -6,3 +6,4 @@ end
 
 numbers = [1, 2, 3]
 print square_array(numbers)
+
