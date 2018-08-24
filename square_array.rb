@@ -4,5 +4,5 @@ def square_array(array)
   new_array
 end
 
-array = [1, 2, 3]
-print square_array
+numbers = [1, 2, 3]
+print square_array(numbers)
