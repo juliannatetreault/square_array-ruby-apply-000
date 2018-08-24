@@ -8,9 +8,8 @@ numbers = [1, 2, 3]
 print square_array(numbers)
 
 def square_array(array)
-  new_array = []
-  array.collect { |i| new_array << (i*i) }
-  new_array
+  array.collect { |i| << (i*i) }
+  array
 end
 
 numbers = [1, 2, 3]
